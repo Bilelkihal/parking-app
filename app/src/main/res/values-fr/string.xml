@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Menu</string>
+    <string name="reserv">Reservations</string>
+    <string name="profil">Profil</string>
+    <string name="login">Connexion</string>
+    <string name="logout">Déconnexion</string>
+</resources>

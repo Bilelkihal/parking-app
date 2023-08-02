@@ -1,0 +1,26 @@
+com/example/parkingresarvation/databinding/FragmentFirstBinding.java
+ com.example.parkingresarvation.databinding.FragmentFirstBinding
+com/example/parkingresarvation/databinding/FragmentLoginBinding.java
+ com.example.parkingresarvation.databinding.FragmentLoginBinding
+com/example/parkingresarvation/databinding/ActivityMapBinding.java
+ com.example.parkingresarvation.databinding.ActivityMapBinding
+com/example/parkingresarvation/BuildConfig.java
+ com.example.parkingresarvation.BuildConfig
+com/example/parkingresarvation/databinding/ActivityMainBinding.java
+ com.example.parkingresarvation.databinding.ActivityMainBinding
+com/example/parkingresarvation/databinding/FragmentProfilBinding.java
+ com.example.parkingresarvation.databinding.FragmentProfilBinding
+com/example/parkingresarvation/databinding/RecyclerItemBinding.java
+ com.example.parkingresarvation.databinding.RecyclerItemBinding
+com/example/parkingresarvation/databinding/FragmentSecondBinding.java
+ com.example.parkingresarvation.databinding.FragmentSecondBinding
+com/example/parkingresarvation/databinding/FragmentHomeBinding.java
+ com.example.parkingresarvation.databinding.FragmentHomeBinding
+com/example/parkingresarvation/databinding/FragmentReservationBinding.java
+ com.example.parkingresarvation.databinding.FragmentReservationBinding
+com/example/parkingresarvation/databinding/FragmentRegisterBinding.java
+ com.example.parkingresarvation.databinding.FragmentRegisterBinding
+com/example/parkingresarvation/databinding/ActivitySplashBinding.java
+ com.example.parkingresarvation.databinding.ActivitySplashBinding
+com/example/parkingresarvation/databinding/FragmentDetailBinding.java
+ com.example.parkingresarvation.databinding.FragmentDetailBinding

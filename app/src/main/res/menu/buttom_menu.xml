@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cnb_unselectedColor="#666666">
+
+    <item
+        android:title="@string/home"
+        android:id="@+id/home_icon"
+        android:icon="@drawable/ic_home"
+        app:cnb_iconColor="@color/reserv"
+        />
+    <item
+        android:title="Map"
+        android:id="@+id/map_icon"
+        android:icon="@drawable/map"
+        app:cnb_iconColor="@color/reserv"
+        />
+
+    <item
+        android:title="@string/reserv"
+        android:id="@+id/reserv_icon"
+        android:icon="@drawable/ic_reservation"
+        app:cnb_iconColor="@color/home"
+
+        />
+    <item
+        android:title="@string/profil"
+        android:id="@+id/profil_icon"
+        android:icon="@drawable/ic_settings"
+        app:cnb_iconColor="@color/profil"
+        />
+
+
+</menu>
